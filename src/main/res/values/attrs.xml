@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>  
+    <declare-styleable name="SwitchView">
+        <attr name="paddingLeft" format="dimension" />
+        <attr name="paddingTop" format="dimension" />
+        <attr name="paddingRight" format="dimension" />
+        <attr name="paddingBottom" format="dimension" />
+        <attr name="thumbMarginLeft" format="dimension" />
+        <attr name="thumbMarginTop" format="dimension" />
+        <attr name="thumbMarginRight" format="dimension" />
+        <attr name="thumbMarginBottom" format="dimension" />
+        <attr name="cornerRadius" format="dimension" />
+        <attr name="onColor" format="reference|color" />
+    </declare-styleable>
+</resources>
